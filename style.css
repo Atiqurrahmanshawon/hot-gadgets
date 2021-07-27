@@ -45,3 +45,33 @@ h6 {
     background-color: white;
     border-top: none;
 }
+
+.row {
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position-x: 520px;
+    height: 600px;
+}
+
+.underline {
+    border: solid 6px orange;
+    border-bottom: none;
+    /* margin: 20px auto; */
+    width: 50px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+.cat {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    padding: 50px;
+}
+
+.cat h5 {
+    margin-top: 15px;
+    text-align: center;
+}
